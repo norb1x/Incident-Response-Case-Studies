@@ -8,7 +8,6 @@ represents a structured analysis of a simulated or reconstructed
 security incident, focusing on technical investigation, traffic
 analysis, and attack chain reconstruction.
 
-All reports are written in a professional incident response format and
-are sanitized for public release.
+These reports reflect my personal learning process in incident analysis and network forensics. All content is sanitized for public release.
 
 ------------------------------------------------------------------------
